@@ -2,8 +2,8 @@
 using static QuestionTwoSolutions;
 using static QuestionThreeSolutions;
 using static QuestionFourSolutions;
-
-
+using static Question5Solutions;
+using static Question6Solutions;
 
 class Solutions
 {
@@ -28,6 +28,12 @@ class Solutions
         n = 99;
         Console.WriteLine(LargestPalindromeProduct(n));
 
+        // Question 5 Solution
+        Console.WriteLine(SmallestEvenlyDivisibleByTwenty());
+        Console.WriteLine(Question5Optimized.SmallestEvenlyDivisibleByTwenty());
+
+        // Question 6 Solution
+        Console.WriteLine(Question6Solutions.SumSquareDifference(100));
 
     }
 }
