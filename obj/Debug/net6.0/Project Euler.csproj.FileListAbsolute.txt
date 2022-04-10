@@ -13,3 +13,18 @@
 /home/extasia/Desktop/work/Project Euler/obj/Debug/net6.0/Project Euler.pdb
 /home/extasia/Desktop/work/Project Euler/obj/Debug/net6.0/Project Euler.genruntimeconfig.cache
 /home/extasia/Desktop/work/Project Euler/obj/Debug/net6.0/ref/Project Euler.dll
+/home/extasia/Desktop/projects/ProjectEulerSolutions/bin/Debug/net6.0/Project Euler
+/home/extasia/Desktop/projects/ProjectEulerSolutions/bin/Debug/net6.0/Project Euler.deps.json
+/home/extasia/Desktop/projects/ProjectEulerSolutions/bin/Debug/net6.0/Project Euler.runtimeconfig.json
+/home/extasia/Desktop/projects/ProjectEulerSolutions/bin/Debug/net6.0/Project Euler.dll
+/home/extasia/Desktop/projects/ProjectEulerSolutions/bin/Debug/net6.0/Project Euler.pdb
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.csproj.AssemblyReference.cache
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.GeneratedMSBuildEditorConfig.editorconfig
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.AssemblyInfoInputs.cache
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.AssemblyInfo.cs
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.csproj.CoreCompileInputs.cache
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.dll
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/refint/Project Euler.dll
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.pdb
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/Project Euler.genruntimeconfig.cache
+/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/Debug/net6.0/ref/Project Euler.dll

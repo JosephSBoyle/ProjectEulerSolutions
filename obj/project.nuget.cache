@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/qz9MIQI5TUq57j9DMWrSnk5LwV8d8+8LAGz610JEYhzs2I/CvTNQWFOEEOwiaaipK3bPIYBJD/neNEjmxQLZQ==",
+  "dgSpecHash": "O2E8m6Uo/a8Aonyb1SiLm5byQ4sZj6Q6DXN59P9YiABxv7bsHMk7j9ANuhwf8MSglZHxDvJUJLNzYYm771JHvQ==",
   "success": true,
-  "projectFilePath": "/home/extasia/Desktop/work/Project Euler/Project Euler.csproj",
+  "projectFilePath": "/home/extasia/Desktop/projects/ProjectEulerSolutions/Project Euler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

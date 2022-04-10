@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/extasia/Desktop/work/Project Euler/Project Euler.csproj": {}
+    "/home/extasia/Desktop/projects/ProjectEulerSolutions/Project Euler.csproj": {}
   },
   "projects": {
-    "/home/extasia/Desktop/work/Project Euler/Project Euler.csproj": {
+    "/home/extasia/Desktop/projects/ProjectEulerSolutions/Project Euler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/extasia/Desktop/work/Project Euler/Project Euler.csproj",
+        "projectUniqueName": "/home/extasia/Desktop/projects/ProjectEulerSolutions/Project Euler.csproj",
         "projectName": "Project Euler",
-        "projectPath": "/home/extasia/Desktop/work/Project Euler/Project Euler.csproj",
+        "projectPath": "/home/extasia/Desktop/projects/ProjectEulerSolutions/Project Euler.csproj",
         "packagesPath": "/home/extasia/.nuget/packages/",
-        "outputPath": "/home/extasia/Desktop/work/Project Euler/obj/",
+        "outputPath": "/home/extasia/Desktop/projects/ProjectEulerSolutions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/extasia/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/158/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

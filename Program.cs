@@ -1,11 +1,14 @@
 ﻿using static QuestionOneSolutions;
 using static QuestionTwoSolutions;
 using static QuestionThreeSolutions;
+using static QuestionFourSolutions;
 
 
 
-class Solutions {
-    static void Main (string[] args) {
+class Solutions
+{
+    static void Main(string[] args)
+    {
         // Question 1 solutions
         Console.WriteLine(Q1SolutionOne());
         Console.WriteLine(Q1SolutionTwo());
@@ -20,6 +23,10 @@ class Solutions {
         // Question 3 Solutions
         long m = 600851475143;
         Console.WriteLine(LargestPrimeFactor(m));
+
+        // Question 4 Solutions
+        n = 99;
+        Console.WriteLine(LargestPalindromeProduct(n));
 
 
     }
