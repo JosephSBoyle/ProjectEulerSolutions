@@ -62,7 +62,7 @@ public static class QuestionThreeSolutions
     */
     private static bool isPrime(long candidate)
     {
-        for (long i = 2; i < Math.Sqrt(candidate); ++i)
+        for (long i = 2; i <= Math.Sqrt(candidate); ++i)
         {
             if (candidate % i == 0)
             {

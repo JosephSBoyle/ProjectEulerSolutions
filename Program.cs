@@ -4,6 +4,8 @@ using static QuestionThreeSolutions;
 using static QuestionFourSolutions;
 using static Question5Solutions;
 using static Question6Solutions;
+using static Question7Solution;
+
 
 class Solutions
 {
@@ -34,6 +36,9 @@ class Solutions
 
         // Question 6 Solution
         Console.WriteLine(Question6Solutions.SumSquareDifference(100));
+
+        // Question 7 Solution
+        Console.WriteLine(Question7Solution.nthPrimeNumber(10001));
 
     }
 }
